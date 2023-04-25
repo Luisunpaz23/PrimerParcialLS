@@ -30,7 +30,7 @@ namespace primer_parcial_solid_transporte
             tren1._nombre = "TREN 01";
             tren1._velocidadActual = 0;
             tren1._velocidadMaxima = 100;
-            transportes.Add(tren1);
+            transportes.Add(tren1); 
 
             Console.WriteLine("Inicio del viaje :)");
 
